@@ -5,7 +5,7 @@
 
 ```
 git clone https://github.com/Bathilda/AI16_DS_CV.git
-cd /AI16_DS_CV/
+%cd /AI16_DS_CV/
 pip install -r requirements.txt
 ```
 
